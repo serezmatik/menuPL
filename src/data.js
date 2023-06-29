@@ -321,7 +321,7 @@ const menu = [
   {
     id: 49,
     title: "PENNE WITH BEEF TENDERLOIN",
-    category: "pasta",
+    category: "Pasta",
     price: 38,
     ingredients: "fresh red pepper | sesame | grana padano cheese | onion",
   },
