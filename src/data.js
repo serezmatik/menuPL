@@ -397,7 +397,7 @@ const menu = [
   },
   {
     id: 56,
-    title: "ICED COFFEE WITH ICE CREAM",
+    title: "ICED COFFEE",
     category: "hot drinks",
     price: 17,
   },
