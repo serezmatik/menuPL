@@ -1,7 +1,6 @@
 import React from "react";
 
 const Categories = ({ categories, filterItems, activeCategory }) => {
-  // Exclude the "all" category from the categories array
   const filteredCategories = categories.filter(
     (category) => category !== "all"
   );
