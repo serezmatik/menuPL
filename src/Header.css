@@ -9,30 +9,41 @@
   
   .logo-container {
     flex: 1;
+    display: flex;
+    align-items: center;
   }
   
   .logo {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     font-weight: bold;
     color: black;
     cursor: pointer;
     text-decoration: none;
-    transition: color 0.3s; /* Dodano przejście koloru przy najechaniu */
+    transition: transform 0.2s;
   }
   
   .logo:hover {
-    color: #0070c9; /* Zmiana koloru przy najechaniu na napis */
+    transform: scale(1.05);
   }
   
   .language-btn {
-    font-size: 1.2rem;
-    padding: 0.2em 0.6em;
+    font-size: 1rem;
+    padding: 0.6em 1.2em;
     border-radius: 2.4rem;
     color: black;
     background-color: transparent;
     text-transform: uppercase;
     cursor: pointer;
     text-decoration: none;
-    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: background-color 0.3s;
   }
+  
+  .language-btn:hover {
+    background-color: #f0f0f0;
+  }
+  
+ 
   
