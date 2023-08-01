@@ -139,14 +139,14 @@ const menu = [
   },
   {
     id: 25,
-    title: "KREWETKI NA GRZANKACH",
+    title: "KREWETKA NA GRZANCE - 1 szt.",
     category: "Startery",
     price: 10,
     ingredients: "pieczywo | krewetki | czosnek | masło",
   },
   {
     id: 26,
-    title: "PLACUSZKI Z ŁOSOSIEM",
+    title: "PLACUSZEK Z ŁOSOSIEM - 1 szt.",
     category: "Startery",
     price: 12,
     ingredients: "łosoś wędzony | placuszki ziemniaczane | kremowy serek",
