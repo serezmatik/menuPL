@@ -5,16 +5,16 @@
     justify-content: space-between;
     padding: 2rem;
     background-color: white;
-  }
-  
-  .logo-container {
+}
+
+.logo-container {
     flex: 1;
     display: flex;
     align-items: center;
     gap: 1rem; /* Dodajemy odstęp między logo a przyciskiem języka */
-  }
-  
-  .logo {
+}
+
+.logo {
     font-size: 1.5rem; /* Zmniejszamy rozmiar logo na 1.5 rem */
     font-weight: bold;
     color: black;
@@ -22,14 +22,14 @@
     text-decoration: none;
     font-family: monospace; /* Zmieniamy czcionkę na monospace */
     transition: transform 0.2s;
-  }
-  
-  .logo:hover {
+}
+
+.logo:hover {
     transform: scale(1.05);
     text-decoration: none; /* Usuwamy podkreślenie na hover */
-  }
-  
-  .language-btn {
+}
+
+.language-btn {
     font-size: 1rem;
     padding: 0.8em 1.2em; /* Drobna zmiana w wielkości przycisku */
     border-radius: 2.4rem;
@@ -43,10 +43,10 @@
     gap: 0.5rem;
     font-family: monospace; /* Zmieniamy czcionkę na monospace */
     transition: background-color 0.3s;
-  }
-  
-  .language-btn:hover {
+    border: 1px solid black; /* Dodajemy obramowanie */
+}
+
+.language-btn:hover {
     background-color: #f0f0f0;
     text-decoration: none; /* Usuwamy podkreślenie na hover */
-  }
-  
+}
