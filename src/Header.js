@@ -5,11 +5,13 @@ const Header = () => {
   return (
     <header className="header">
       <div className="logo-container">
-        <a href="/">
+        <a href="https://stonehenge.pl">
           <span className="logo">STONEHENGE</span>
         </a>
       </div>
-      <button className="language-btn">ENG</button>
+      <a href="https://serezmatik.github.io/menu/">
+        <button className="language-btn">ENG</button>
+      </a>
     </header>
   );
 };
