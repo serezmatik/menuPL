@@ -24,6 +24,7 @@ const App = () => {
     <main>
       <section className="menu section">
         <Header />
+
         <Categories
           categories={categories}
           activeCategory={activeCategory}
