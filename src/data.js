@@ -262,11 +262,11 @@ const menu = [
   },
   {
     id: 41,
-    title: "Z POLĘDWICĄ WOŁOWĄ I GRANATEM",
+    title: "PRIMAVERA",
     category: "sałatki",
     price: 37,
     ingredients:
-      "plastry marynowanej polędwicy wołowej | mix sałat | pomidorki koktajlowe | pestki dyni | pestki granatu | cytrynowy winegret",
+      "burrata | szynka wołowa Bresaola | mix sałat | pomidorki koktajlowe | pestki dyni | pestki granatu | cytrynowy winegret",
   },
   {
     id: 42,
