@@ -57,14 +57,7 @@ const menu = [
     ingredients:
       "sos pomidorowy | mozzarella | szynka dojrzewająca | sałata rukola | ser grana padano | pomidorki koktajlowe",
   },
-  {
-    id: 9,
-    title: "CELTIC",
-    category: "pizza",
-    price: 38,
-    ingredients:
-      "sos pomidorowy | mozzarella | szynka gotowana | salami łagodne | pieczarki",
-  },
+  
   {
     id: 10,
     title: "NAJLEPSZA",
