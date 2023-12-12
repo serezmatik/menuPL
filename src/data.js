@@ -81,7 +81,7 @@ const menu = [
     title: "FOCACCIA",
     category: "pizza bianco",
     price: 21,
-    ingredients: "oliwa z oliwek | rozmaryn",
+    ingredients: "oliwa z oliwek | rozmaryn | sól",
   },
   {
     id: 13,
