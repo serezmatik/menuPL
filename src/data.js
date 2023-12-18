@@ -115,13 +115,7 @@ const menu = [
     ingredients: "pomidory pelati | mozzarella fior di latte | burrata | szynka wołowa Bresaola | sałata rukola | ser grana padano | pomidorki koktajlowe",
   },
   
-  {
-    id: 25,
-    title: "KREWETKA NA GRZANCE",
-    category: "Startery",
-    price: 10,
-    ingredients: "pieczywo | krewetki | czosnek | masło",
-  },
+  
   {
     id: 26,
     title: "PLACUSZEK Z ŁOSOSIEM",
