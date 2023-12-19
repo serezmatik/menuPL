@@ -277,13 +277,7 @@ const menu = [
     price: 36,
     ingredients: "sos pomidorowy | czosnek | szczypiorek",
   },
-  {
-    id: 47,
-    title: "ORECCHIETTE Z BROKULAMI",
-    category: "pasta",
-    price: 36,
-    ingredients: "brokuły | ser parmigiano reggiano",
-  },
+  
   {
     id: 48,
     title: "TAGLIATELLE Z KARCZOCHAMI",
