@@ -112,23 +112,16 @@ const menu = [
     title: "PRIMAVERA",
     category: "pizza bianco",
     price: 47,
-    ingredients: "pomidory pelati | mozzarella fior di latte | burrata | szynka wołowa Bresaola | sałata rukola | ser grana padano | pomidorki koktajlowe",
+    ingredients: "pomidory pelati | mozzarella fior di latte | burrata | szynka wołowa Bresaola | sałata rukola | parmigiano reggiano | pomidorki koktajlowe",
   },
   
   
   {
     id: 26,
-    title: "PLACUSZEK Z ŁOSOSIEM",
+    title: "PLACEK ZIEMNIACZANY Z SZYNKĄ PARMEŃSKĄ",
     category: "Startery",
     price: 12,
-    ingredients: "łosoś wędzony | placuszki ziemniaczane | kremowy serek",
-  },
-  {
-    id: 27,
-    title: "CARPACCIO Z POLĘDWICY WOŁOWEJ",
-    category: "Startery",
-    price: 38,
-    ingredients: "polędwica wołowa | rukola | kapary | ser grana padano",
+    ingredients: "szynka parmeńska | placek ziemniaczany | jogurt naturalny",
   },
   {
     id: 28,
@@ -154,22 +147,22 @@ const menu = [
     title: "SCHAB PO MEDIOLAŃSKU",
     category: "Dania główne",
     price: 41,
-    ingredients: "makaron tagliatelle | grillowane pomidorki | ze szpinakiem",
+    ingredients: "makaron tagliatelle | grillowane pomidorki ze szpinakiem",
   },
   {
     id: 21,
-    title: "PLAŚCIKI POLĘDWICY WOŁOWEJ",
+    title: "PLASTRY POLĘDWICY WOŁOWEJ NA GORĄCYM TALERZU",
     category: "Dania główne",
     price: 46,
     ingredients:
-      "na gorącym talerzu | pomidorki | pieczywo | oliwa z rozmarynem i pieprzem",
+      "pomidorki | pieczywo | oliwa z rozmarynem i pieprzem",
   },
   {
     id: 22,
     title: "GULASZ WOŁOWY",
     category: "Dania główne",
     price: 38,
-    ingredients: "placki ziemniaczane | sos gulaszowy | kawałki mięsa wołowego",
+    ingredients: "placki ziemniaczane | sos gulaszowy z kawałkami mięsa wołowego",
   },
   {
     id: 23,
@@ -190,7 +183,7 @@ const menu = [
     category: "sałatki",
     price: 31,
     ingredients:
-      "szynka parmeńska | ser mozzarella | pomidor | oliwki | kapary | ser grana padano | czerwona cebula | pesto z bazylii",
+      "szynka parmeńska | ser mozzarella | pomidor | oliwki | kapary | parmigiano reggiano | czerwona cebula | pesto z bazylii",
   },
   {
     id: 36,
@@ -214,7 +207,7 @@ const menu = [
     category: "sałatki",
     price: 33,
     ingredients:
-      "grillowany kurczak i boczek | sałata rzymska | ser grana padano | jajko w koszulce | sos Cesar",
+      "grillowany kurczak i boczek | sałata rzymska | parmigiano reggiano | jajko w koszulce | sos Cesar",
   },
   {
     id: 39,
@@ -241,19 +234,26 @@ const menu = [
       "burrata | szynka wołowa Bresaola | mix sałat | pomidorki koktajlowe | pestki dyni | pestki granatu | cytrynowy winegret",
   },
   {
+    id: 41.1,
+    title: "CARPACCIO Z POLĘDWICY WOŁOWEJ",
+    category: "Startery",
+    price: 38,
+    ingredients: "polędwica wołowa | rukola | kapary | parmigiano reggiano",
+  },
+  {
     id: 42,
     title: "SPAGHETTI CARBONARA",
     category: "pasta",
     price: 34,
     ingredients:
-      "speck | czosnek | świeża natka pietruszki | ser grana padano | cebula | sos",
+      "speck | czosnek | świeża natka pietruszki | parmigiano reggiano | cebula | sos",
   },
   {
     id: 43,
     title: "SPAGHETTI BOLOGNESE",
     category: "pasta",
     price: 35,
-    ingredients: "sos boloński | ser grana padano",
+    ingredients: "sos boloński | parmigiano reggiano",
   },
   {
     id: 44,
@@ -268,7 +268,7 @@ const menu = [
     category: "pasta",
     price: 36,
     ingredients:
-      "anchois | cebula | suszone pomidory | ser grana padano | świeża natka pietruszki | czosnek",
+      "anchois | cebula | suszone pomidory | parmigiano reggiano | świeża natka pietruszki | czosnek",
   },
   {
     id: 46,
@@ -290,13 +290,7 @@ const menu = [
     title: "PENNE Z POŁĘDWICĄ WOŁOWĄ",
     category: "pasta",
     price: 38,
-    ingredients: "świeża czerwona papryka | sezam | ser grana padano | cebula",
-  },
-  {
-    id: 30,
-    title: "Z BROKULAMI",
-    category: "risotto",
-    price: 38,
+    ingredients: "świeża czerwona papryka | sezam | parmigiano reggiano | cebula",
   },
   {
     id: 31,
@@ -419,7 +413,7 @@ const menu = [
     category: "drinki",
     price: 27,
     ingredients:
-      "biały rum | limonka | syrop miętowy | brązowy cukier | kruszony lód",
+      "biały rum | limonka | mięta | brązowy cukier | kruszony lód",
   },
   {
     id: 70,
@@ -455,14 +449,14 @@ const menu = [
     title: "STONEHENGE COLLINS",
     category: "drinki",
     price: 29,
-    ingredients: "gin | likier miętowy | sok z cytryny | kruszony lód | tonic",
+    ingredients: "gin | syrop miętowy | sok z cytryny | kruszony lód | tonic",
   },
   {
     id: 75,
     title: "VIRGIN MOJITO",
     category: "drinki bezalkoholowe",
     price: 23,
-    ingredients: "limonka | syrop miętowy | brązowy cukier | woda gazowana",
+    ingredients: "limonka | mięta | brązowy cukier | woda gazowana",
   },
   {
     id: 76,
