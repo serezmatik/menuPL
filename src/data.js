@@ -236,7 +236,7 @@ const menu = [
   {
     id: 41.1,
     title: "CARPACCIO Z POLĘDWICY WOŁOWEJ",
-    category: "Startery",
+    category: "sałatki",
     price: 38,
     ingredients: "polędwica wołowa | rukola | kapary | parmigiano reggiano",
   },
