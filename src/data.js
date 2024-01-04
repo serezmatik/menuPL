@@ -134,6 +134,7 @@ const menu = [
     title: "ROSÓŁ Z MAKARONEM",
     category: "Zupy",
     price: 16,
+    ingredients: "Dostępne tylko w STONEHENGE SOSNOWIEC",
   },
   {
     id: 19,
@@ -159,10 +160,10 @@ const menu = [
   },
   {
     id: 22,
-    title: "GULASZ WOŁOWY",
+    title: "GNOCCHI Z WOŁOWYM RAGOUT",
     category: "Dania główne",
     price: 38,
-    ingredients: "placki ziemniaczane | sos gulaszowy z kawałkami mięsa wołowego",
+    ingredients: "wołowina | pomidory",
   },
   {
     id: 23,
@@ -315,10 +316,10 @@ const menu = [
   },
   {
     id: 34,
-    title: "PIZZA Z SZYNKĄ",
+    title: "GNOCCHI",
     category: "dla dzieci",
     price: 27,
-    ingredients: "sos pomidorowy | mozzarella | szynka",
+    ingredients: "śmietana | sos malinowy",
   },
   {
     id: 50,
