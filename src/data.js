@@ -249,13 +249,7 @@ const menu = [
     ingredients:
       "speck | czosnek | świeża natka pietruszki | parmigiano reggiano | cebula | sos",
   },
-  {
-    id: 43,
-    title: "SPAGHETTI BOLOGNESE",
-    category: "pasta",
-    price: 35,
-    ingredients: "sos boloński | parmigiano reggiano",
-  },
+ 
   {
     id: 44,
     title: "TAGLIATELLE Z KURCZAKIEM",
